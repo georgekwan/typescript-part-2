@@ -5,7 +5,6 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import { Prosto_One } from '@next/font/google';
 
 export interface SandwichCardProps {
   name: string;
